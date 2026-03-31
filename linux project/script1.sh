@@ -9,8 +9,8 @@
 # =============================================================
 
 # --- Student Details ---
-STUDENT_NAME="Rhythm Arora"         
-REG_NUMBER="24BAI10084"      
+STUDENT_NAME="Aditya Singh Jadon"         
+REG_NUMBER="24BSA10022"      
 SOFTWARE_CHOICE="Python"        
 
 # --- Gather system information using command substitution ---
